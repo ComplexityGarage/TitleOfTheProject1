@@ -1,4 +1,4 @@
-# Title of the project
+# HELIOSTAT
 # Authors 
 - Bartosz Pióro
 - Karolina Nowak
